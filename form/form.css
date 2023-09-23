@@ -1,0 +1,146 @@
+
+     @font-face {
+      font-family: "vazirmatn";
+      src: url(Vazirmatn-Black.ttf);   
+      src: url(Vazirmatn-Bold.ttf);   
+      src: url(Vazirmatn-ExtraBold.ttf);   
+      src: url(Vazirmatn-ExtraLight.ttf);   
+      src: url(Vazirmatn-Light.ttf);   
+      src: url(Vazirmatn-Medium.ttf);   
+      src: url(Vazirmatn-Regular.ttf);   
+      src: url(Vazirmatn-SemiBold.ttf);   
+      src: url(Vazirmatn-Thin.ttf);   
+       }
+
+@import 'mdb-ui-kit/css/mdb.rtl.min.css';     
+
+
+     
+    .btn-nav {
+      font-family: "vazirmatn";
+      border-radius: 10px;
+      margin: 2px;
+      font-size: 14px;
+      text-decoration-line:none;
+    }
+
+   .text-right{
+    width: 120px;
+   }
+
+   .DoreAmoozeshi{
+    width: 250px;
+   }
+
+   .BackToMainPage{
+    text-decoration-line:none;
+
+   }
+
+    .btn-nav :hover {
+      background-color: #354185;
+      color: white;
+      text-decoration-line:none;
+    }
+
+    .Sabt{
+      font-family: "vazirmatn";
+      border-radius: 10px;
+      margin: 2px;
+      font-size: 18px;
+      text-decoration-line:none;
+      color: black;
+    }
+
+    .Sabt :hover {
+      background-color: #008f13;
+      color: white;
+      text-decoration-line:none;
+    }
+
+
+    .Mark{
+      width: 50px;
+    }
+
+    .UniName{
+      width: 200px;
+    }
+    .CauseOff{
+      width: 160px;
+    }
+
+    .pargasiran-logo{
+      width: 50px;
+      height: 50px;
+}
+
+     .container{
+       text-align: right;
+       direction: rtl;
+       border: 2px solid black;
+       border-radius: 10px;
+       font-family: "vazirmatn";
+       font-size: large;
+       color: black;
+       
+     }
+     
+     .headtable1 {
+      background-color: #283593;
+      color:white;
+      font-family: "vazirmatn";
+      font-size: larger;
+      text-align: center;
+      margin-top: none;
+     }
+
+     .headtable {
+      background-color: #283593;
+      color:white;
+      font-family: "vazirmatn";
+      font-size: larger;
+      text-align: center;
+      margin-top: 70px;
+     }
+
+     .line{
+      border: 1px solid black;
+     }
+
+     .form{
+      text-align: right;
+      direction: rtl;
+    }
+
+
+    #floatingTextarea{
+      border: none;
+
+    }
+    #inputtext{
+      border: none;
+    }
+
+    #header{
+      font-size: 26px;
+    }
+   
+
+    .table{
+      font-size:14px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+    
+          

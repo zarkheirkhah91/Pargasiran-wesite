@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: "vazirmatn";
+    src: url(Vazirmatn-Black.ttf);   
+    src: url(Vazirmatn-Bold.ttf);   
+    src: url(Vazirmatn-ExtraBold.ttf);   
+    src: url(Vazirmatn-ExtraLight.ttf);   
+    src: url(Vazirmatn-Light.ttf);   
+    src: url(Vazirmatn-Medium.ttf);   
+    src: url(Vazirmatn-Regular.ttf);   
+    src: url(Vazirmatn-SemiBold.ttf);   
+    src: url(Vazirmatn-Thin.ttf);   
+     }
+
+
+
+.TitleSolar{
+    font-size: 34PX;
+    color: #03070a;
+    font-family: "vazirmatn";
+}
+
+.Header {
+    font-size: 30PX;
+    color: #03070a;
+    font-family: "vazirmatn";
+}
+
+.Explain{
+    font-size: 18PX;
+    color: #03070a;
+    font-family: "vazirmatn";
+
+}
+
+
+.pargasiranWindo {
+    height: 300px;
+    width: 250px;
+    border: #000000;
+    text-align: center;
+    border-radius: 10px;
+}

@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "B_nazanin";
+    src: url(B\ Nazanin.ttf);   
+     }
+
+@import 'mdb-ui-kit/css/mdb.rtl.min.css';     
+
+     .container{
+       text-align: right;
+       direction: rtl;
+     }
+
+     .form{
+      text-align: right;
+      direction: rtl;
+    }
+
+
+
+
+
+
+
+
+
+
+    
+                

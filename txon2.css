@@ -1,0 +1,358 @@
+
+@font-face {
+    font-family: "vazirmatn";
+    src: url(Vazirmatn-Black.ttf);   
+    src: url(Vazirmatn-Bold.ttf);   
+    src: url(Vazirmatn-ExtraBold.ttf);   
+    src: url(Vazirmatn-ExtraLight.ttf);   
+    src: url(Vazirmatn-Light.ttf);   
+    src: url(Vazirmatn-Medium.ttf);   
+    src: url(Vazirmatn-Regular.ttf);   
+    src: url(Vazirmatn-SemiBold.ttf);   
+    src: url(Vazirmatn-Thin.ttf);   
+     }
+
+   
+
+.pargasiran-logo {
+    width: 70px;
+    height: 50px;
+}
+
+
+
+.navbar {
+    background-color: #354185;
+    width: 100%;
+}
+
+
+.AboutButton {
+    padding: 5px;
+
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    border-radius: 10px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
+
+.btn-nav {
+    font-family: "vazirmatn";
+    border-radius: 10px;
+    margin: 2px;
+    font-size: 14px;
+}
+
+
+.btn-nav :hover {
+    background-color: #b89d03;
+}
+
+#linkcolor{
+    color: #000000;
+    text-decoration: none;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family:"vazirmatn";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family:"vazirmatn";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family:"vazirmatn";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family:"vazirmatn";
+}
+
+
+.banner-section-bg-container {
+    height: 100vh;
+    background-image: url(picture/img15.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    font-family:"B_nazanin";
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.banner-heading {
+    color: white;
+    font-family:"vazirmatn";
+    font-size: 50px;
+    font-weight: 300;
+    
+}
+
+
+.btnSearch {
+    background-color: #b89d03;
+    border: #b89d03;
+
+}
+
+
+.wcu-section {
+    background-color: white;
+    font-family:"vazirmatn";
+    font-size: 20px;
+    box-shadow:black;
+    text-align: center;
+
+}
+
+
+.translate {
+    border: 1px ;
+    border-radius: 10px;
+    padding: 3px;
+    
+    
+}
+
+.translate :hover { 
+    background-color: #b89d03;
+}
+.wcu-card {
+    
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    line-height: 45px;
+
+}
+
+.Maincount{
+    background-color: #e7ecee;
+    color: #000000;
+}
+
+
+.mainaboutus{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(241, 241, 247);
+}
+
+.products-section {
+    background-color: white;
+    text-align: right;
+}
+
+
+
+.product-item-image {
+    border-radius: 16px;
+    direction: rtl;
+
+}
+
+.product-card-title {
+    color: #1a1818;
+    font-family:"vazirmatn";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.product-item-link {
+    color: #b89d03;
+    font-family:"vazirmatn";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.product-item-card {
+    border-radius: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+
+
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    color: #03070a;
+    font-family: "vazirmatn";
+    font-size: 34px;
+    font-weight: 700;
+    text-align: right;
+}
+
+
+
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+
+.contact-us-section-heading {
+    text-align: center;
+    color: #03070a;
+    font-family: "vazirmatn";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.follow-us-section-heading-M{
+    text-align: right;
+    color: #03070a;
+    font-family: "vazirmatn";
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.HeadAbout {
+    color: #03070a;
+    font-family: "vazirmatn";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.moarefi{
+text-align: right;
+
+}
+
+.TextAboutUs {
+    font-family: "vazirmatn";
+    font-size: 16px;
+}
+
+.picture-moarefi{
+    text-align: left;
+
+}
+
+
+
+.icon {
+    color: #ad9403;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: #354185;
+    height:auto;
+}
+
+.footer-section-mail-id {
+    color: white;
+    font-family: "vazirmatn";
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: white;
+    font-family: "vazirmatn";
+    font-size: 18px;
+}
+
+.footer-header {
+    text-align: center;
+    color: white;
+    font-family: "vazirmatn";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.Dr-image {
+    height: 250px;
+    width: 230px;
+    border: #000000;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+.pargasiran{
+    height: 250px;
+    width: 300px;
+    border: #000000;
+    text-align: center;
+    border-radius: 10px;
+}
+.horizontal-line {
+    background-color: #5a7184;
+}
+
+.para1 {
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.gift_redeem {
+    color: green;
+    font-family: "vazirmatn";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.flag {
+    height: 22px;
+    width: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
